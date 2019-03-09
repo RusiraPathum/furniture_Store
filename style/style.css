@@ -1,0 +1,15 @@
+body{
+    background: white;
+    font-family: 'roboto slab', serif;
+
+}
+
+.navbar{
+    opacity: 0.8;
+    border-bottom: white 3px solid;
+
+}
+#main-footer{
+    background-color: black;
+    color: white;
+}
